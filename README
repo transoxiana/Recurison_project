@@ -1,0 +1,5 @@
+Number Guess Game
+How to Play:
+1. Enter two integers m and n. (The difference between m and n should be at least 3. with m being the larger number and n smaller number.)
+2. A random integer between m and n (inclusive) will be selected.Try to guess the selected number.
+3.You have up to 3 attempts to guess the number.
